@@ -1,0 +1,5 @@
+# Build output (created by ./build.sh)
+build/
+
+# macOS
+.DS_Store
