@@ -63,3 +63,7 @@ open build/Calculator.app
 | `build.sh` | Builds the app and the release zip |
 | `6.jpg` | Background photo |
 | `AppIcon.icns` | App icon |
+
+## Author
+
+Made by Rafsan Alam ([@rafsan0079](https://github.com/rafsan0079)).
